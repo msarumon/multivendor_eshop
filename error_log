@@ -1,0 +1,14 @@
+[31-Dec-2018 09:37:43 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/developers/public_html/ruma/shop_1.5.3_update/application/libraries/Paypal.php on line 111
+[31-Mar-2019 22:55:39 UTC] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/developers/public_html/shop_v1.5.4/system/libraries/Session/Session.php on line 143
+[31-Mar-2019 22:55:40 UTC] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/developers/public_html/shop_v1.5.4/system/libraries/Session/Session.php on line 143
+[31-Mar-2019 22:56:06 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/developers/public_html/shop_v1.5.4/application/helpers/language_helper.php on line 307
+[31-Mar-2019 22:56:14 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/developers/public_html/shop_v1.5.4/application/helpers/language_helper.php on line 307
+[31-Mar-2019 22:56:34 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/developers/public_html/shop_v1.5.4/application/controllers/Home.php on line 65
+[31-Mar-2019 22:57:58 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/developers/public_html/shop_v1.5.4/application/controllers/Home.php on line 65
+[31-Mar-2019 22:58:07 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/developers/public_html/shop_v1.5.4/application/controllers/Home.php on line 65
+[31-Mar-2019 22:58:10 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/developers/public_html/shop_v1.5.4/application/controllers/Home.php on line 65
+[31-Mar-2019 22:58:13 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/developers/public_html/shop_v1.5.4/application/controllers/Home.php on line 65
+[31-Mar-2019 22:58:39 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/developers/public_html/shop_v1.5.4/application/controllers/Home.php on line 65
+[31-Mar-2019 22:58:57 UTC] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/developers/public_html/shop_v1.5.4/system/libraries/Session/Session.php on line 143
+[02-Apr-2019 17:21:16 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/developers/public_html/shop_v1.5.4/system/database/DB_query_builder.php on line 1376
+[21-Oct-2019 08:59:31 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/developers/public_html/shop/shop_2.0/dummy.php on line 19
